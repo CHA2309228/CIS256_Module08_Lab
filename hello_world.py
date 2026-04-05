@@ -7,5 +7,5 @@ This module provide the hello func
 """
 
 
-def hello():
+def hello_wrld():
     print('Hello World!')
